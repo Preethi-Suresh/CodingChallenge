@@ -10,7 +10,7 @@
 |  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                     				  | [Day1.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/4715ebd5f80d73da857c6df41bd35bc1d99203c7/30DAYSOFCODE/DAY1.java)                									    |
 |  2  | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                   		      | [Day2.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/f074cccbf94620db98dd5b371a8946804bcba549/30DAYSOFCODE/DAY2.java)              										    |
 |  3  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)            | [Day3.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY3.java)                  | 	
-|  4  | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                              | [Day4.java]()               						        |
+|  4  | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                              | [Day4.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY4.java)               						        |
 |  5  | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                       				  | [Day5.java]()                											    |
 |  6  | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                                      	  | [Day6.java]()                						  			    | 
 |  7  | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                       		      | [Day7.java]()                											    | 
