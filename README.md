@@ -15,7 +15,7 @@
 |  6  | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                                      	  | [Day6.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY6.java)                						  			    | 
 |  7  | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                       		      | [Day7.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY7.java)                											    | 
 |  8  | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)                       | [Day8.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY8.java)                				    |  
-|  9  | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)                                       		  | [Day9.java]()                									    |   
+|  9  | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)                                       		  | [Day9.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY9.java)                									    |   
 |  10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                                     | [Day10.java]()                							    | 
 |  11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                                     	      | [Day11.java]()                							 		    |
 |  12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                                           | [Day12.java]()                							                        |
