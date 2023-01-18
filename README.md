@@ -34,7 +34,7 @@
 |  25 | [RunningTimeAndComplexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)              | [Day25.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY25.java)                		|
 |  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)           						      | [Day26.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY26.java)                		    		    	    	|
 |  27 | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)           						      	  | [Day27.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY27.java)                		    		    	    			|
-|  28 | [RegEx,Patterns,and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)              | [Day28.java]()        |
-|  29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)             							  | [Day29.java]()                	    		    			    |
+|  28 | [RegEx,Patterns,and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)              | [Day28.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY28.java)        |
+|  29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)             							  | [Day29.java](https://github.com/Preethi-Suresh/CodingChallenge/blob/main/30DAYSOFCODE/DAY29.java)                	    		    			    |
 
 
